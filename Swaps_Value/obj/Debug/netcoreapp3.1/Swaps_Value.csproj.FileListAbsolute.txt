@@ -1,0 +1,13 @@
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.exe
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.deps.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.runtimeconfig.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.runtimeconfig.dev.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\bin\Debug\netcoreapp3.1\Swaps_Value.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.csprojAssemblyReference.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.AssemblyInfoInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.AssemblyInfo.cs
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Swaps_Value\obj\Debug\netcoreapp3.1\Swaps_Value.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.exe
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.deps.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.runtimeconfig.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.runtimeconfig.dev.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\bin\Debug\netcoreapp3.1\Console_C_Sharp.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.csprojAssemblyReference.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.AssemblyInfoInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.AssemblyInfo.cs
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Console_C_Sharp\obj\Debug\netcoreapp3.1\Console_C_Sharp.genruntimeconfig.cache
