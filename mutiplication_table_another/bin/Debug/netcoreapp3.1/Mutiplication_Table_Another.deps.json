@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mutiplication_Table_Another/1.0.0": {
+        "runtime": {
+          "Mutiplication_Table_Another.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mutiplication_Table_Another/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
