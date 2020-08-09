@@ -10,3 +10,4 @@ D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\mutiplication_table_another\obj\Debu
 D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\mutiplication_table_another\obj\Debug\netcoreapp3.1\Mutiplication_Table_Another.dll
 D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\mutiplication_table_another\obj\Debug\netcoreapp3.1\Mutiplication_Table_Another.pdb
 D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\mutiplication_table_another\obj\Debug\netcoreapp3.1\Mutiplication_Table_Another.genruntimeconfig.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\mutiplication_table_another\obj\Debug\netcoreapp3.1\Mutiplication_Table_Another.csprojAssemblyReference.cache

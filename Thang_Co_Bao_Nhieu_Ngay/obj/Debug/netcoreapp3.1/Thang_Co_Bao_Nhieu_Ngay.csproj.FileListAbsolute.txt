@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\bin\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Thang_Co_Bao_Nhieu_Ngay\obj\Debug\netcoreapp3.1\Thang_Co_Bao_Nhieu_Ngay.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.exe
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.deps.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.runtimeconfig.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.runtimeconfig.dev.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\bin\Debug\netcoreapp3.1\LoginBasic.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.csprojAssemblyReference.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.AssemblyInfoInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.AssemblyInfo.cs
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\LoginBasic\obj\Debug\netcoreapp3.1\LoginBasic.genruntimeconfig.cache

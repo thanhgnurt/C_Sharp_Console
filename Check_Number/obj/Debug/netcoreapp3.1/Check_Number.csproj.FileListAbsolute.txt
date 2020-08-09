@@ -1,0 +1,12 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\bin\Debug\netcoreapp3.1\Check_Number.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Number\obj\Debug\netcoreapp3.1\Check_Number.genruntimeconfig.cache

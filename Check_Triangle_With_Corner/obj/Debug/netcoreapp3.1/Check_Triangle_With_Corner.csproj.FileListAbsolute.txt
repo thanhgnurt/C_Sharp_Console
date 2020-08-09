@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\bin\Debug\netcoreapp3.1\Check_Triangle_With_Corner.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Check_Triangle_With_Corner\obj\Debug\netcoreapp3.1\Check_Triangle_With_Corner.genruntimeconfig.cache

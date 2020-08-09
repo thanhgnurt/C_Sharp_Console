@@ -1,0 +1,13 @@
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.exe
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.deps.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.runtimeconfig.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.runtimeconfig.dev.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\bin\Debug\netcoreapp3.1\Temperature_Change.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.csprojAssemblyReference.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.AssemblyInfoInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.AssemblyInfo.cs
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Temperature_Change\obj\Debug\netcoreapp3.1\Temperature_Change.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\bin\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Coordinates_XY_Quadrant\obj\Debug\netcoreapp3.1\Coordinates_XY_Quadrant.genruntimeconfig.cache

@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PumKin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\PumKin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\Console_C_Sharp\\Console_C_Sharp.csproj",
+      "projectUniqueName": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\Console_C_Sharp\\Console_C_Sharp.csproj",
       "projectName": "Console_C_Sharp",
-      "projectPath": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\Console_C_Sharp\\Console_C_Sharp.csproj",
+      "projectPath": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\Console_C_Sharp\\Console_C_Sharp.csproj",
       "packagesPath": "C:\\Users\\PumKin\\.nuget\\packages\\",
-      "outputPath": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\Console_C_Sharp\\obj\\",
+      "outputPath": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\Console_C_Sharp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\PumKin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

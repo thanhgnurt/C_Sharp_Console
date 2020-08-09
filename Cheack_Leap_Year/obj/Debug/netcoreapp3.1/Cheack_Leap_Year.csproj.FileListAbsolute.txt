@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\bin\Debug\netcoreapp3.1\Cheack_Leap_Year.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Cheack_Leap_Year\obj\Debug\netcoreapp3.1\Cheack_Leap_Year.genruntimeconfig.cache

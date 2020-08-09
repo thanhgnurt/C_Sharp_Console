@@ -1,0 +1,13 @@
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.exe
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.deps.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.runtimeconfig.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.runtimeconfig.dev.json
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\bin\Debug\netcoreapp3.1\Triangle_Of_Numbers.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.AssemblyInfoInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.AssemblyInfo.cs
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.dll
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.genruntimeconfig.cache
+D:\DHTX-VB2\NhapMonLapTrinh\Console_C_Sharp\Triangle_Of_Numbers\obj\Debug\netcoreapp3.1\Triangle_Of_Numbers.csprojAssemblyReference.cache

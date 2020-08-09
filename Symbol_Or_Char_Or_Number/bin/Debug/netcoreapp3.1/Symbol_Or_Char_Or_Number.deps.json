@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Symbol_Or_Char_Or_Number/1.0.0": {
+        "runtime": {
+          "Symbol_Or_Char_Or_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Symbol_Or_Char_Or_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

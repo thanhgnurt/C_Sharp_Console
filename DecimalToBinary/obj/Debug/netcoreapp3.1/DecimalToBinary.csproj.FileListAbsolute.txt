@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.genruntimeconfig.cache

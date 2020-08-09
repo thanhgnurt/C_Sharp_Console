@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Temperature_Change/1.0.0": {
+        "runtime": {
+          "Temperature_Change.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperature_Change/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

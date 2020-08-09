@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\bin\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Symbol_Or_Char_Or_Number\obj\Debug\netcoreapp3.1\Symbol_Or_Char_Or_Number.genruntimeconfig.cache

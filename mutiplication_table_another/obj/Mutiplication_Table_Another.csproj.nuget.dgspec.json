@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj": {}
+    "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj": {}
   },
   "projects": {
-    "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj": {
+    "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj",
+        "projectUniqueName": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj",
         "projectName": "Mutiplication_Table_Another",
-        "projectPath": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj",
+        "projectPath": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\mutiplication_table_another\\Mutiplication_Table_Another.csproj",
         "packagesPath": "C:\\Users\\PumKin\\.nuget\\packages\\",
-        "outputPath": "D:\\DHTX-VB2\\NhapMonLapTrinh\\Console_C_Sharp\\mutiplication_table_another\\obj\\",
+        "outputPath": "D:\\DHTX-VB2\\Nhap-Mon-Lap-Trinh\\Console_C_Sharp\\mutiplication_table_another\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\PumKin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
