@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\bin\Debug\netcoreapp3.1\Show_Number_Hexan.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\Show_Number_Hexan\obj\Debug\netcoreapp3.1\Show_Number_Hexan.genruntimeconfig.cache

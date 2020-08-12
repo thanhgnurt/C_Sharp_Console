@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\bin\Debug\netcoreapp3.1\VeTamGia.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Console_C_Sharp\VeTamGia\obj\Debug\netcoreapp3.1\VeTamGia.genruntimeconfig.cache
