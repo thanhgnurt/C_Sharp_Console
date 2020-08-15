@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Show_Number_Hexan", "Show_N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TongCacSoChanLe", "TongCacSoChanLe\TongCacSoChanLe.csproj", "{F57CE76B-D6D7-45E0-B193-ABD5923B2654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeTamGia", "VeTamGia\VeTamGia.csproj", "{F8C7AEFD-16B9-480A-94FB-2BFC549F6205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeTamGia", "VeTamGia\VeTamGia.csproj", "{F8C7AEFD-16B9-480A-94FB-2BFC549F6205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOneToN", "SumOneToN\SumOneToN.csproj", "{290B30FE-78A3-4A0E-9E1D-0AEED7A15FD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{F8C7AEFD-16B9-480A-94FB-2BFC549F6205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C7AEFD-16B9-480A-94FB-2BFC549F6205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C7AEFD-16B9-480A-94FB-2BFC549F6205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290B30FE-78A3-4A0E-9E1D-0AEED7A15FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290B30FE-78A3-4A0E-9E1D-0AEED7A15FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290B30FE-78A3-4A0E-9E1D-0AEED7A15FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290B30FE-78A3-4A0E-9E1D-0AEED7A15FD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
